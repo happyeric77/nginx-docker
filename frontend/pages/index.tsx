@@ -7,7 +7,7 @@ interface IUser {
   username: string;
   email: string;
 }
-const qlEndpoint = "http://backend:3001/graphql";
+const qlEndpoint = "http://168.138.200.230:3001/graphql";
 
 const Home: NextPage = () => {
   const [users, setUsers] = useState<IUser[]>([]);
