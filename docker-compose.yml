@@ -7,6 +7,6 @@ services:
       - "3000:3000"
   backend:
     image: node:17.3.0
-    build: ./backend
+    build: ./qlServer
     ports:
       - "3001:3001"
