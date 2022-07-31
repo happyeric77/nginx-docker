@@ -31,6 +31,10 @@ Following by previous section, we will make our authenticate system even more ro
 
 - Create a API middle on nextjs frontend
 
-- [Video work through](https://youtu.be/gUtnBTebLQs)
+- [Video work-through](https://youtu.be/gUtnBTebLQs)
 
 ![](https://i.imgur.com/SmverCg.png)
+
+# Running frontend and backend in docker containers in Oracle free tier VPS
+
+- [Video work-through](https://youtu.be/G1BeewWGlvs)
