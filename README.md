@@ -37,4 +37,8 @@ Following by previous section, we will make our authenticate system even more ro
 
 # Running frontend and backend in docker containers in Oracle free tier VPS
 
+![](https://i.imgur.com/RSMzpUN.png)
+
+## Section#1 deploying multi docker application onto cloud server
+
 - [Video work-through](https://youtu.be/G1BeewWGlvs)
